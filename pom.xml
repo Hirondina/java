@@ -1,12 +1,6 @@
 <project>
-  <groupId>org.jibx</groupId>
-  <artifactId>jibx-maven-projeto</artifactId>
-  <version>1.2.4</version>
-  <execution>
-    <execution>
-      <goals>
-        <goal>bind</goal>
-      </goals>
-    </execution>
-  </execution>
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>com.mycompany.app</groupId>
+  <artifactId>my-module</artifactId>
+  <version>1</version>
 </project>
