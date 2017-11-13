@@ -1,4 +1,4 @@
-<projeto>
+<project>
   <groupId>org.jibx</groupId>
   <artifactId>jibx-maven-projeto</artifactId>
   <version>1.2.4</version>
@@ -9,4 +9,4 @@
       </goals>
     </execution>
   </executions>
-</projeto>
+</project>
